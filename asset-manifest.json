@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto-Scroller/static/css/main.349fb2d4.css",
+    "main.js": "/Crypto-Scroller/static/js/main.642908be.js",
+    "index.html": "/Crypto-Scroller/index.html",
+    "main.349fb2d4.css.map": "/Crypto-Scroller/static/css/main.349fb2d4.css.map",
+    "main.642908be.js.map": "/Crypto-Scroller/static/js/main.642908be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349fb2d4.css",
+    "static/js/main.642908be.js"
+  ]
+}
