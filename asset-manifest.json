@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Crypto-Scroller/static/css/main.349fb2d4.css",
-    "main.js": "/Crypto-Scroller/static/js/main.642908be.js",
+    "main.js": "/Crypto-Scroller/static/js/main.fe0b5c70.js",
     "index.html": "/Crypto-Scroller/index.html",
     "main.349fb2d4.css.map": "/Crypto-Scroller/static/css/main.349fb2d4.css.map",
-    "main.642908be.js.map": "/Crypto-Scroller/static/js/main.642908be.js.map"
+    "main.fe0b5c70.js.map": "/Crypto-Scroller/static/js/main.fe0b5c70.js.map"
   },
   "entrypoints": [
     "static/css/main.349fb2d4.css",
-    "static/js/main.642908be.js"
+    "static/js/main.fe0b5c70.js"
   ]
 }
