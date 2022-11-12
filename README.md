@@ -1,2 +1,3 @@
-# Crypto-Scroller
-An infinite scrolling list of cryptocurrencies (Bitcoin, Ethereum...) on React
+Crypto infinite scroller by React
+It renders cryptocurrencies using coincap api
+Data fetches more when reach the end of the page
